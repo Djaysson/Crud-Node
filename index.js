@@ -1,9 +1,6 @@
 const express = require("express");
-
 const server = express();
-
 server.use(express.json());
-
 const projects = [];
 
 //Function middleware que checa se o projeto existe
