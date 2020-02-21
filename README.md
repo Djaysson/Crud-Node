@@ -1,7 +1,7 @@
 # Crud-Node
 Crud para armazenar projetos e tarefas.
 
-<h2>Tecnologia usada</h2>
+<h1>Tecnologia usada</h1>
 <ul>
   <li>Node.js</li>
 </ul>
